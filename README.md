@@ -53,7 +53,7 @@ Entre na pasta raiz do projeto e com o NodeJs já instalado executar o comanado 
 
 E para rodar o projeto em seu navegador:
 
-    $ npm go
+    $ npm start
 
 Acesse no seu navegador:
 
