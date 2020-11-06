@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Localize um orfanato</title>
+
+    <link rel="icon" href="images/logo-icon.png" />
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/animations.css" />
+    <link rel="stylesheet" href="css/font-nunito.css" />
+    <link rel="stylesheet" href="css/orphaneges.css" />
+
+    <link rel="stylesheet" href="css/leaflet.css"/>
+
+
+    <script src="js/leaflet.js"></script>
+  
+  </head>
+  <body>
+
+    <div id="page-orphanages">
+      
+      <aside class="animation-left-to-right">
+        <header>
+
+          <a href="/orphanages">
+            <img class="logo" src="/images/map-marker.svg" alt="Happy" />
+          </a>
+
+          <h2>Escolha um orfanato no mapa</h2>
+
+          <p>Clique no icone de carinha na tela para visializar outras informações do Orfanato.
+             <br><br>Muitas crianças estão esprando sua visita!</p>
+        </header>
+
+        <footer>
+          <strong>Catanduva</strong>
+          <p>São Paulo</p>
+        </footer>
+
+      </aside>
+
+      <div id="mapid" class="animation-apper"></div>
+
+      <div class="dataOrphanage">
+        {{#each orphanages}}
+          <span hidden
+            data-id="{{this.id}}"
+            data-name="{{this.name}}"
+            data-lat="{{this.lat}}"
+            data-lng="{{this.lng}}"
+          >
+          </span>
+        {{/each}}
+      </div>
+
+      <a 
+        href="./create-orphanage" 
+        class="create-orphanages"
+        title="Cadastre um novo orfanato">
+        <img 
+          src="images/plus.svg" 
+          alt="Criar novo orfanato" 
+          srcset=""/>
+      </a>  
+    </div>
+
+    <script src="js/map.js"></script>
+
+  </body>
+</html>
