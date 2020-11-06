@@ -75,7 +75,9 @@ Você pode adquirir o token seguindo a documentação neste link [ir para o site
 
 ## 😧 Dificuldades 
 
-Time A semana NLW3 é um evento orquestrado pelo time da Rocketseat, o conteúdo fica disponível somente na quela semana, e por isso somete agora estou finalizando e publicando o projeto, isso mesmo! Um mês depois... mas cheguei lá “Congratulations”. 
+#time
+
+A semana NLW3 é um evento orquestrado pelo time da Rocketseat, o conteúdo fica disponível somente na quela semana, e por isso somete agora estou finalizando e publicando o projeto, isso mesmo! Um mês depois... mas cheguei lá “Congratulations”. 
 
 ## 📘 Licença
 
