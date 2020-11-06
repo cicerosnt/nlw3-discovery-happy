@@ -2,9 +2,9 @@
   "name": "project",
   "version": "1.0.0",
   "description": "",
-  "go": "index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "go": "nodemon src/server.js"
   },
   "keywords": [],
   "author": "",
