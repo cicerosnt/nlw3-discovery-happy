@@ -77,7 +77,7 @@ Você pode adquirir o token seguindo a documentação neste link [ir para o site
 
 #time
 
-A semana NLW3 é um evento orquestrado pelo time da Rocketseat, o conteúdo fica disponível somente na quela semana, e por isso somete agora estou finalizando e publicando o projeto, isso mesmo! Um mês depois... mas cheguei lá “Congratulations”. 
+A semana NLW3 é um evento orquestrado pelo time da Rocketseat, o conteúdo fica disponível somente na quela semana, e por isso somete agora estou finalizando e publicando o projeto, isso mesmo! Um mês depois... mas cheguei lá! Congratulations. 
 
 ## 📘 Licença
 
@@ -85,4 +85,4 @@ Esse projeto está sob a licença MIT. [LICENSE](LICENSE.md)
 
 ---
 
-Entre em conato ✉️ [cicero.dsantos@outlookk.com.br](cicero.dsantos@outlookk.com.br)
+ [Entre em conato ✉️](cicero.dsantos@outlook.com.br)
